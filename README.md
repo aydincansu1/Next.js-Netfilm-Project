@@ -4,7 +4,7 @@
 NextFilm, modern web geliştirme teknolojileri kullanılarak oluşturulmuş bir film ve dizi inceleme platformudur. Next.js çatısı altında geliştirilmiş olan bu proje, hızlı, etkili ve kullanıcı dostu bir deneyim sunmayı hedefler.
 
 
-# Kullanılan Teknbolojiler
+# Kullanılan Teknolojiler
 
 - Next.js
 - React
