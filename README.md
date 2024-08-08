@@ -1,4 +1,7 @@
 
+# Vercel : [next-js-netfilm-project-six.vercel.app](https://next-js-netfilm-project-six.vercel.app/)
+
+
 # NetFilm
 
 NextFilm, modern web geliştirme teknolojileri kullanılarak oluşturulmuş bir film ve dizi inceleme platformudur. Next.js çatısı altında geliştirilmiş olan bu proje, hızlı, etkili ve kullanıcı dostu bir deneyim sunmayı hedefler.
